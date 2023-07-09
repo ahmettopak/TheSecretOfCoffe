@@ -1,16 +1,3 @@
 # the_secret_of_coffee
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Secret of Coffee is an enchanting application that is currently under development! It is being developed using Firebase and Flutter, and will be available to you soon. It combines features such as coffee cup reading, tarot card readings, luck games, and horoscope interpretations. Stay tuned for its exciting completion and get ready to explore this amazing app that will be coming your way soon!
